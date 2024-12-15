@@ -31,6 +31,7 @@
     }
   },
   "peerDependencies": {
+    "@simplewebauthn/server": "13.0.0",
     "hono": "^4.0.0",
     "arctic": "^2.2.2"
   },
